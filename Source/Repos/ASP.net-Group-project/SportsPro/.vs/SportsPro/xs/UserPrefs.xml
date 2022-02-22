@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{93287263-5EA8-45FF-BCA7-292F9C3E03C3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SportsPro PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportsPro/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="SportsPro/appsettings.json" Line="16" Column="1" />
+      <File FileName="SportsPro/Controllers/HomeController.cs" Line="36" Column="1" />
+      <File FileName="SportsPro/Views/Shared/_Layout.cshtml" Line="53" Column="74" />
+      <File FileName="SportsPro/Views/Home/Customers.cshtml" Line="1" Column="1" />
+      <File FileName="SportsPro/Models/Product.cs" Line="1" Column="1" />
+      <File FileName="SportsPro/Models/Technician.cs" Line="1" Column="1" />
+      <File FileName="SportsPro/Models/Incident.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SportsPro" expanded="True">
+            <Node name="SportsPro" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Microsoft.AspNetCore.Mvc.DataAnnotations" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
