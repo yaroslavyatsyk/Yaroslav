@@ -1,0 +1,63 @@
+{
+	"name": "javascript-essentials",
+	"displayName": "Javascript-Essentials",
+	"description": "Javascript essential extensions for visual studio code",
+	"icon": "img/essentials.png",
+	"galleryBanner": {
+		"color": "#53595e",
+		"theme": "dark"
+	},
+	"license": "LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Gydunhn/Javascript-Essentials.git"
+	},
+	"keywords": [
+		"VSC",
+		"VSCode",
+		"Visual Studio",
+		"VSC Essentials",
+		"Javascript",
+		"Lint",
+		"ESLint",
+		"jshint",
+		"npm",
+		"Intellisense",
+		"Visual Studio IntelliCode",
+		"IntelliCode",
+		"ES6",
+		"Snippets",
+		"JavaScript (ES6) code snippets",
+		"Debugger",
+		"Firefox",
+		"Debugger for Firefox",
+		"Essentials",
+		"Gydunhn",
+		"Elite"
+	],
+	"version": "0.0.7",
+	"publisher": "Gydunhn",
+	"author": {
+		"name": "Javier Camus"
+	},
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"dbaeumer.vscode-eslint",
+		"dbaeumer.jshint",
+		"christian-kohler.npm-intellisense",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"xabikos.JavaScriptSnippets",
+		"firefox-devtools.vscode-firefox-debug"
+	],
+	"__metadata": {
+		"id": "1887fa41-7807-4dfd-be80-5cd477d1e8e4",
+		"publisherId": "5ba0db5c-54ed-404d-85d3-eb4f8e655371",
+		"publisherDisplayName": "Gydunhn",
+		"installedTimestamp": 1623012001458
+	}
+}
